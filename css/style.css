@@ -36,11 +36,11 @@ h3 {
 .element {
   background-color: green;
   height: 100px;
-  margin 10px 0;
+  margin: 10px 0;
   width: 100%;
 
 }
 
-#change {
+.change {
   background-color: red;
 }
